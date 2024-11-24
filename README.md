@@ -1,10 +1,10 @@
-# Informatics Quals - First Round
+# Programming Quals - First Round
 
 ## About
-This repository contains my solutions for the first round of the 2024 Informatics Competition. The competition is organized by the Mathematical Society of Serbia.
+This repository contains my solutions for the first round of the 2024 Programming Competition. The competition is organized by the Mathematical Society of Serbia.
 
 ## Competition Details
-- **Event**: High School Informatics Competition 2024/2025 - First Round
+- **Event**: High School Programming Competition 2024/2025 - First Round
 - **Organizer**: Mathematical Society of Serbia
 - **Date**: 16.11.2024.
 
